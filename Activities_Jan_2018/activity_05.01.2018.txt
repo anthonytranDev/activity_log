@@ -1,0 +1,74 @@
+[00:49]
+(General)
+
+Unfortunately a lot of happened, and I forgot to update the activity
+log, however I do have individual time stamps more the important
+parts of the previous day.
+
+(Meeting)
+
+Skype with Doug [04.01.2018: 18:35 - 19:30]
+
+Key Points:
+  - How to justify the valuation?
+  - Working on the backend -> Let's base it on the assumption that
+    whatever Jonny delivers is great, if he doesn't deliver anything
+    that is fine
+  - Monday, rather than have a hardcore meeting, on a detailed
+    discussion of future plans. More or less a casual business social
+  - Doug used the analogy of having a steam market place for gambling
+    games - embedding their gambling API
+  - Anthony mentioning the network effect, Metcalf's law and the
+    valuation of highly dense and populated social networks
+    (I still need to pass on the idea).
+  - Doug then mentioned the idea of using the Champ Feature as a possible
+    pivot point.
+
+Other Points
+
+  - Viral Cooefficiency - Start up school Y-Combinator Facebook Growth Team
+  - With company success, Shaun may decide to jump on board, being COO
+
+Resulted in a document - that kinda looks like a term sheet-ish doc, but
+I don't have a clue what it is
+
+
+(Planning)
+
+Aims:
+
+  - Making Potential Edits to the existing document if possible.
+    Making a Copy of the Original if some parts.
+      - Suggestions include using Doug + Shaun's One Thing framework; have
+        an overall encompassing aim, that both sides can agree on
+  - Carry Reading, Studying + Reviewing "Venture Deals" - Brad Felds
+  - Ignore any programming/design for now;
+
+Questions to ask Doug
+
+What the document is - to be honest I forgot to ask; solely focusing on
+what was the document at the time; i.e. what he was writing down?
+Reasons for the document?
+
+
+[22:46]
+(General)
+
+Aims Completed
+  - Making Potential Edits to the existing document if possible.
+    Making a Copy of the Original if some parts.
+      - Suggestions include using Doug + Shaun's One Thing framework; have
+        an overall encompassing aim, that both sides can agree on
+  - Carry Reading, Studying + Reviewing "Venture Deals" - Brad Felds
+
+
+Aims:
+  - (New) Make questions on individual parts of the documentation - The Champ
+    - Ask better questions from the Company Map and Revised Revision of the document
+  - Finish Reading Brad Felds and continue studying - flash cards and revising
+    and reviewing notes
+
+(Note)
+
+Remember if Doug is tired today, and he has given out instructions, remember to
+ask him for the instructions again and make sure they are coherent yesterday and today.

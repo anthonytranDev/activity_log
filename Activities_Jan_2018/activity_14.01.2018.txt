@@ -1,0 +1,55 @@
+Date Created: 14.01.2018
+
+
+[11:14]
+(General)
+
+Forgot to update the log yesterday. So what I've learnt.
+
+  - Firebase + React -> Learn how to write the the data on to the
+    page, understood how the React component life cycle fit in
+    with updating the component and retrieving data from the
+
+  - Unfortunately I didn't exactly complete my one thing yesterday
+    which was to READ the firebase data
+      - Well the app kinda read the data, but looking at it all from
+        a holistic point of view. I still didn't focus all my
+        efforts into reading the data using on() and once()
+        ...
+        Who know those utility functions may no longer exists, as I
+        could read the data totally fine
+
+  - One thing today is utilize the video tutorial, till I get up to
+    Integrating React with Firebase for app we have built - (anything
+    I do extra is a bonus)
+
+
+[12:23]
+(Improvement)
+
+Project Smoke Test: Before doing a project, based off some author,
+search for their project Github repo. install it first and see if it
+works in your current environment
+
+
+
+[20:04]
+(General)
+
+Just return back from the family congregation and meeting, some old
+usually meet up session.
+
+Now requires spending time towards completing my 'One Thing'.
+
+
+
+[23:00]
+(General)
+
+Wasn't able to do that smoke test to see if the entire repo worked in
+my environment as it required setting up a database and authentication
+- I wasn't able to study the authentication part yet, wasn't gonna
+risk it.
+
+- Due to how busy the entire day was from 12:30 - 20:00, most of the day
+  was gone, this One Thing needs to carried over to the next day

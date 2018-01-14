@@ -1,0 +1,113 @@
+Date Created: 11.01.2018
+
+ServiceWorker problem - [16:22]
+
+
+[08:20]
+(Improvements)
+
+Needs to fix entire 'installation workflow',
+Quick off the top of my head solution
+
+  - download Yarn globally
+  - have documentation of the list of tools that are there
+    - better have some kind of self-updating json (must be some kind of tool online for)
+
+
+
+[08:28]
+(Improvements)
+
+Need to find some in to create good quality git titles and messages
+
+
+
+[08:32]
+(Improvements)
+
+1) 'Vi' Learn vi basics
+
+2) 'Git' stage files individually and commit individually, try atomize individually the
+   the files that want to
+
+   Useful Reddit posts
+
+   i) Git commit - A commit is your smallest working unit, so if you have what should
+   be 5 commits jammed into 1 -- you are going to have a bad time.
+
+   ii) Woah, I've always wondered about rebase but never had a reason to use it on my
+   personal projects. Thanks for the useful read!
+
+
+
+[08:42]
+(General)
+
+The hack house idea -> is the most organic way to grow a proper incubator in the UK,
+derive from UKfasts plagarised 'fast forward' attempt.
+
+
+
+[09:32]
+(Improvements)
+
+When loading up the machine, we need some way to stop from clogging up the screen.
+  - Better still we can have the machine load plainly
+  - Then have a command to load my design/env + dev/env
+  - Have a super user workflow
+
+
+
+[10:00]
+(General)
+
+Word of caution, the current Yeoman generation of the firebase app requires you to
+have all the options installed, you'd expect if this top quality it would just
+include the installations you'd only need - what a shame.
+
+
+
+[10:20]
+(General)
+
+The generated app for yeoman is pretty buggy at this moment in time, you’d expect it to
+as convenient as create-react-app, it’s kinda unfortunate, they have nice boilerplate
+config files
+
+
+
+[10:27]
+(General)
+
+If you forget to engage .gitignore, especially when there are loads of files in node_modules,
+It’ll slow git kraken the hell down
+
+
+
+[11:14]
+(General)
+
+Being pretty tired, has  cause me to accidentally delete all of my activities
+logs. What would be nice, is if I had an app that could export individual
+files or entire folder of logs
+
+
+
+[12:58]
+(General)
+
+Lost all these files and managed to save this date. Files lost see below;
+
+  - activity_10.01.2017.txt
+  - activity_11.01.2017.txt
+
+
+
+[16:22]
+(General)
+
+A lot of hours have been spent, trying to fix the ServiceWorker problem.
+If the problem ever arises; it would occur in Chrome
+
+alt + cmd + 'I' > Application > Unregister the 'service worker'
+

@@ -1,0 +1,51 @@
+[12:48]
+(General)
+
+Heard that Jonny has had a monster merge error, from the
+amount of auto-conflict he's had.
+
+The plan now;
+
+Stop any git activity, no pushing and pulling from any repo;
+prevention is best method, to stop the entire team from
+exacerbating the current situation further, before we have
+enough information.
+
+This is the current assumption;
+
+Jonny   | thechamp         -> "heroku repo"
+        | the-champ-finale -> "actual project repo"
+        | => in the same folder
+
+Anthony | thechamp         -> "heroku repo"
+        | the-champ-finale -> "actual project repo"
+        | => in two different folder
+
+There may be different merge error problem, that could exist
+have different repo for both files.
+
+[Gonna start by using names rather than pronouns]
+Anthony is unsure whether, Jonny knows about the concept of
+different branches of master.
+
+  master/origin
+  master/heroku
+
+
+[12:56]
+(General)
+
+Should have research into Git and Merge Error prevention best practices
+
+The main mistake we made, was not prevent and mitigate the mistake from
+ever occurring with either hard/soft control methods - chemical engineering
+
+We need a checklist for ways for structuring the entire codebase.
+
+
+[13:01]
+(Planning)
+
+Whilst waiting for Jonny's video call, Anthony is going to spend more time
+learning about express and building a better picture of how the FE-BE API
+works.

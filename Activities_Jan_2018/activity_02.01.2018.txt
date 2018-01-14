@@ -1,0 +1,57 @@
+[19:26]
+(General)
+Spent the majority of the pass day with family for New Year, and some of the time
+learning about Clean Code, Best Practices + just delved into design patterns
+hence no activity log for 01.01.2018.
+
+(Planning)
+
+Now the focus is go back to producing a successful boilerplate file that uses
+ES6 + Express. This is derived the plan 31.12.2017 below;
+
+- ES6
+- ES6 + Express
+- React
+- React + Express
+- React + Express + MongoDB + Passport
+=> Full on session management, After
+  + Account Setup - Mlabs, Heroku etc
+
+Please bare in mind that there are other things you can include in webpack to
+improve performance, however they are not as important and initial chapters -
+
+Code Splitting
+Lazy Loading
+Caching
+Authoring Libraries
+Shimming
+TypeScript
+Progressive Web Application
+Migrating Versions
+Environment Variables
+Build Performance
+Dependency Management
+Public Path
+
+[Please notes on Webpack learning]
+
+
+[20:37] [Updated 20:43]
+
+Spent some time on tooling with nodemon and browsersync, doesn't seem to work.
+
+Possible Solutions
+
+  - Learn how to use webpack middleware
+    - include nodemon and browsersync plugin
+  - Possible remove the middleware component from the server file, and recode
+    the entire logic for it
+
+
+[20:41]
+
+Just noticed a possible boo boo, I was using middleware in another file without
+realising - originating from the previous webpack tutorials.
+
+Recommendations were to keep the backend functionality side of webpack,
+integrated into the server file - performance related

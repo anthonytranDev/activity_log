@@ -1,0 +1,24 @@
+[12:36]
+(General)
+
+Aims
+  Today
+  - Learn how to setup a backend env
+  - Spend time going over completing those questions
+  - Spare time spent going over vocabulary
+
+
+[12:53]
+(General)
+
+Every even version of node, has LTS behind it - which is
+18 months.
+http://nodesource.com/blog/essential-steps-long-term-support-for-nodejs/
+
+
+[13:55]
+(Planning)
+
+Time spent specing out - if spent on equity agreement, needs a checklist of
+things to go through - based on venture deals provisions stated OR
+from their boilerplate

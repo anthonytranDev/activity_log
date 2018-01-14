@@ -1,0 +1,35 @@
+Date Created: 13.01.2018
+
+ServiceWorker problem - [16:22]
+
+[11:25]
+(General)
+
+One thing to do today is learn how to effectively read data,
+using firebase
+
+
+[12:15]
+(Improvement)
+
+Some way of saving previous code snippets such as bash commands that ones uses very often.
+1) Whenever one types out a command, we can build a graph of how often a bunch of commands
+get's used by you. We can then make recommendations, on the frequency of use - in essense
+a programming ROI
+Unless.
+It's much quicker to type them out
+
+
+[12:23]
+(Improvement)
+
+Simple programming heuristic, is to create a simple app, get it working. Then slowly do some
+refactoring and cleaning up of the code.
+
+
+[12:42]
+(Improvement)
+
+In the most worse case scenario for code, you can include comments, and keep to a binary rule.
+Where if people are reading the code, they have the option to completely remove them if
+necessary.
